@@ -29,7 +29,8 @@
     "multimatch": "^2.1.0",
     "prettier": "1.12.1",
     "svg-term-cli": "^2.1.1",
-    "tempy": "^0.2.1"
+    "tempy": "^0.2.1",
+    "vue": "2.6.11",
   },
   "lint-staged": {
     "*.js": [
